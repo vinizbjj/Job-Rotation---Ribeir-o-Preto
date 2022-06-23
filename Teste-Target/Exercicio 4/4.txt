@@ -1,0 +1,49 @@
+Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão Preto?
+
+No ponto do encontro o carro estará a 11,6km  de distancia de Ribeirão Preto, quanto o caminhão estará 11,92km de distancia.
+
+Utizei a formula para calcular o ponto de encontro entre eles, antes de calcular do caminhão adicionei 10 minutos e ao invés de calcular 60 minutos calculei 70
+devido as duas paradas de 5 minutos.
+
+
+
+
+110* 0,56 = 61,6 - 50 = 11,6
+
+68*0,56 = 38,08 - 50 = 11,92
+
+
+Carro 110km sem parar
+
+Caminhão 80km com 2 pedagios de 5 minutos cada
+
+Trajeto 100km
+
+
+Carro = 110/60 = 1.83 km por minuto em uma hora andou 110km
+
+Caminhão = 80/70(60 minutos + 2 paradas de de 5) = 1.42857 km por minutos em uma hora andou 68.57km
+
+
+SA = carro
+SC = caminhao
+
+110t = 100 - 68t
+
+68t+110t = 100
+
+178t=100
+
+t= 100/178
+
+t= 0.56 = tempo do encontro
+
+
+110* 0,56 = 61,6
+
+68*0,56 = 38,08
+
+
+
+
+
